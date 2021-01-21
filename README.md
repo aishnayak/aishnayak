@@ -57,7 +57,7 @@
 <img align="left" alt="Aishwarya's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishnayak" />
 
 </details>
-https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true
+
 
 
 
