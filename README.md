@@ -1,7 +1,8 @@
 ### Hi there I'm Aishwarya Nayak <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![HitCount](http://hits.dwyl.com/aishnayak/aishnayak.svg)](http://hits.dwyl.com/aishnayak/aishnayak)
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="
+https://www.google.com/search?q=namaste+gif&tbm=isch&ved=2ahUKEwj895682q3uAhXQ5nMBHbSLBzYQ2-cCegQIABAA&oq=namaste&gs_lcp=CgNpbWcQARgAMgcIABCxAxBDMgQIABBDMgUIABCxAzIECAAQQzIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQsQMyBQgAELEDMgUIABCxAzoECCMQJzoCCAA6BwgjEOoCECc6CAgAELEDEIMBOgYIABAIEB5QgrEDWPPuA2CwgwRoBnAAeASAAcsBiAHsE5IBBjAuMTQuMZgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=yM4JYPzzMdDNz7sPtJeesAM&bih=750&biw=1536&client=firefox-b-d#imgrc=7mnufLqyYUHa5M" width="500" height="320" />
 
 ##I'm a student 
 - 🔭 I’m currently working on buliding my self
@@ -57,7 +58,7 @@
 <img align="left" alt="Aishwarya's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishnayak" />
 
 </details>
-
+https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true
 
 
 
