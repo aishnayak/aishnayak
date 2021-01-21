@@ -32,13 +32,10 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/c-plusplus.svg" />
-
-<img align="left" alt="GitHub" width="26px" src="" />
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" alt="python" width="40" height="40"/> 
-<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="46" height="46"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/c-plusplus.svg" alt="cplusplus" width="40" height="40"/> 
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/c-plusplus.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <br />
 <br />
 
