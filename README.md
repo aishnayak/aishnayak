@@ -32,9 +32,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" alt="python" width="40" height="40"/> 
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="46" height="46"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/c-plusplus.svg" alt="cplusplus" width="40" height="40"/> 
 <br />
 <br />
 
