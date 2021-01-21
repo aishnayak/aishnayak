@@ -1,16 +1,7 @@
 ### Hi there I'm Aishwarya Nayak 👋
 
 [![HitCount](http://hits.dwyl.com/aishnayak/aishnayak.svg)](http://hits.dwyl.com/aishnayak/aishnayak)
-
-<a href="https://twitter.com/Aishwar48942221" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a> 
-<a href="mailto:aishnayak21@gmail.com?hl=en" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/aishwarya-nayak-6336b3194/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
-</a>
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ##I'm a student 
 - 🔭 I’m currently working on buliding my self
@@ -22,9 +13,16 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+<a href="https://twitter.com/Aishwar48942221" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> 
+<a href="mailto:aishnayak21@gmail.com?hl=en" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/aishwarya-nayak-6336b3194/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+</a>
 
 ### Languages and Tools:
 
