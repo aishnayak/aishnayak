@@ -1,6 +1,6 @@
 ### Hi there I'm Aishwarya Nayak <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[![HitCount](http://hits.dwyl.com/aishnayak/aishnayak.svg)](http://hits.dwyl.com/aishnayak/aishnayak)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishnayak" alt="aishnayak" /> </p>
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ##I'm a student 
