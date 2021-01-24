@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Frontend Projects
 - 💬 Ask me about ... BTS
 - 😄 Pronouns: She/Her
-- ⚡ Fun Fact:When not working could be found BTS videos
+- ⚡ Fun Fact:When not working could be found watching BTS videos
 
 
 ### Languages and Tools:
