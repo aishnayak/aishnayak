@@ -5,7 +5,7 @@
 
 ##I'm a student 
 - 🔭 I’m currently working on buliding my self
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and enjoying it
 - 👯 I’m looking to collaborate on Frontend Projects
 - 💬 Ask me about ... BTS
 - 😄 Pronouns: She/Her
